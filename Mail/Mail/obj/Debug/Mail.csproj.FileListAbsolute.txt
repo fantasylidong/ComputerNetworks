@@ -1,0 +1,5 @@
+D:\c#_project\Mail\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+D:\c#_project\Mail\Mail\obj\Debug\Mail.Form1.resources
+D:\c#_project\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+D:\c#_project\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+D:\c#_project\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache

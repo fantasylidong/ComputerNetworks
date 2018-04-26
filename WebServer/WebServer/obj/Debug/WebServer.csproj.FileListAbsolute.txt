@@ -1,0 +1,10 @@
+E:\c#_project\WebServer\WebServer\bin\Debug\WebServer.exe.config
+E:\c#_project\WebServer\WebServer\bin\Debug\WebServer.exe
+E:\c#_project\WebServer\WebServer\bin\Debug\WebServer.pdb
+E:\c#_project\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+E:\c#_project\WebServer\WebServer\obj\Debug\WebServer.Form1.resources
+E:\c#_project\WebServer\WebServer\obj\Debug\WebServer.Properties.Resources.resources
+E:\c#_project\WebServer\WebServer\obj\Debug\WebServer.csproj.GenerateResource.Cache
+E:\c#_project\WebServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+E:\c#_project\WebServer\WebServer\obj\Debug\WebServer.exe
+E:\c#_project\WebServer\WebServer\obj\Debug\WebServer.pdb

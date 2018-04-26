@@ -1,0 +1,10 @@
+D:\c#_project\Web_Proxy\Web_Proxy\bin\Debug\Web_Proxy.exe.config
+D:\c#_project\Web_Proxy\Web_Proxy\bin\Debug\Web_Proxy.exe
+D:\c#_project\Web_Proxy\Web_Proxy\bin\Debug\Web_Proxy.pdb
+D:\c#_project\Web_Proxy\Web_Proxy\obj\Debug\Web_Proxy.csprojResolveAssemblyReference.cache
+D:\c#_project\Web_Proxy\Web_Proxy\obj\Debug\Web_Proxy.Form1.resources
+D:\c#_project\Web_Proxy\Web_Proxy\obj\Debug\Web_Proxy.Properties.Resources.resources
+D:\c#_project\Web_Proxy\Web_Proxy\obj\Debug\Web_Proxy.csproj.GenerateResource.Cache
+D:\c#_project\Web_Proxy\Web_Proxy\obj\Debug\Web_Proxy.csproj.CoreCompileInputs.cache
+D:\c#_project\Web_Proxy\Web_Proxy\obj\Debug\Web_Proxy.exe
+D:\c#_project\Web_Proxy\Web_Proxy\obj\Debug\Web_Proxy.pdb

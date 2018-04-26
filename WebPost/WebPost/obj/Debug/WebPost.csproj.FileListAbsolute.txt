@@ -1,0 +1,7 @@
+E:\c#_project\WebPost\WebPost\bin\Debug\WebPost.exe.config
+E:\c#_project\WebPost\WebPost\bin\Debug\WebPost.exe
+E:\c#_project\WebPost\WebPost\bin\Debug\WebPost.pdb
+E:\c#_project\WebPost\WebPost\obj\Debug\WebPost.csproj.CoreCompileInputs.cache
+E:\c#_project\WebPost\WebPost\obj\Debug\WebPost.exe
+E:\c#_project\WebPost\WebPost\obj\Debug\WebPost.pdb
+E:\c#_project\WebPost\WebPost\obj\Debug\WebPost.csprojResolveAssemblyReference.cache
